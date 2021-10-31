@@ -1,0 +1,41 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 112px;
+    background-color: #fff;
+    align-items: center;
+}
+
+.logo {
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.navigationMenu {
+    margin: 0 auto;
+}
+
+/* .logo:hover {
+    background-color: white;
+    border: none;
+} */
+
+.language {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    padding: 0 24px 0 0;
+}
+
+.buttons {
+    display: flex;
+}
+
+.buttons a:not(:last-child) {
+    margin-right: 12px;
+}

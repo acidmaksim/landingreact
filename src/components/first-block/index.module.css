@@ -1,0 +1,49 @@
+.firstBlock {
+    align-items: center;
+    display: block;
+    text-align: center;
+
+}
+
+.textBlock {
+    margin-bottom: 32px;
+}
+
+h1 {
+    color: #252527;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 46px;
+    margin:  0;
+    padding-bottom: 26px;
+    text-align: center;
+}
+
+h1 span {
+    text-align: inherit;
+}
+
+.accentWords {
+    color: #2174EF;
+
+}
+
+
+p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    padding: 0 49px;
+    color: #415566;
+    margin:  0px;
+
+}
+
+
+.picture {
+    max-width: 100%;
+    height: auto;
+}
+

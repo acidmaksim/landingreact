@@ -1,0 +1,39 @@
+/* .button_text {
+    font-weight: 500;
+    line-height: 24px;
+    font-size: 16px;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #2174EF;
+    border-radius: 4px;
+    border: none;
+    text-align: center;
+    padding: 16px 24px;
+    font-weight: 500;
+    line-height: 24px;
+    font-size: 16px;
+    color: #ffffff;
+    text-decoration: none;
+}  */
+
+.button_text {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #252527;
+    padding: 18px 37px;
+    text-decoration:  none;
+    background: none;
+    border-radius: 20px;
+    cursor: pointer;
+} 
+.button_text:hover {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 25px rgba(37, 37, 39, 0.05);
+
+} 
+.button_text:visited {
+    text-decoration: none;
+    color: #252527;
+} 

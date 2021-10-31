@@ -1,0 +1,11 @@
+.border {
+    /* flex-direction: row; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 20px;
+    border: 1px solid #2174EF;
+    box-sizing: border-box;
+    border-radius: 26px;
+
+}

@@ -1,0 +1,19 @@
+.container {
+    align-items: center;
+    text-align: center;
+    padding: 44px 0;
+    display: block;
+    /* flex-direction: column; */
+    background-color: #F2F5F9;
+}
+
+
+.childrenWrap {
+    padding-top: 48px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: start;
+    column-gap: 48px;
+    row-gap: 40px;
+    width: 100%;
+}

@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    /* box-sizing: border-box; */
+    align-items: center;
+}
+
+.value {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #2174EF;
+    background: #F2F5F9;
+    border-radius: 60px;
+    width: 80px;
+    height: 80px;
+    min-width: 80px;
+    min-height: 80px;
+    margin-right: 32px;
+
+    
+}
+
+.description {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: left;
+    color: #415566;
+}

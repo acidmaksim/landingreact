@@ -1,0 +1,40 @@
+.container {
+    align-items: center;
+    text-align: center;
+    padding: 44px 0;
+    display: grid;
+    /* flex-direction: column; */
+}
+
+.title {
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 44px;
+    align-items: center;
+    text-align: center;
+    color: #252527;
+    
+}
+
+.infoBlock {
+    padding-top: 48px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: start;
+    column-gap: 48px;
+    row-gap: 40px;
+    width: 100%;
+}
+
+
+
+/* 
+.childrenWrap {
+    padding-top: 48px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: start;
+    column-gap: 48px;
+    row-gap: 40px;
+    width: 100%;
+} */

@@ -1,0 +1,18 @@
+.button_text {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #252527;
+    background-color: #ffffff;
+    border-radius: 4px;
+    text-align: center;
+    padding: 0px 24px;
+    height: 40px;
+    box-sizing: border-box;
+    border: 1px solid #E1EAF3;
+    /* box-sizing: border-box; */
+}
